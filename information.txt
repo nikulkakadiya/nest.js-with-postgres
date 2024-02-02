@@ -1,0 +1,5 @@
+this is project use
+nest.js
+jwt
+postgres DB
+sequelize ORM
